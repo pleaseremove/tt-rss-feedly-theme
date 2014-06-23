@@ -1,4 +1,4 @@
-tt-rss-feedly-theme
+tt-rss-feedly-theme-dark
 ===================
 
 Updated to be a darker version of the theme.
